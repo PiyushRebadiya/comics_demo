@@ -16,8 +16,7 @@ function App() {
           <Route path="/logout" component={Log_Out} />
         </Switch>
       </Router>
-      {/* <h1>Piyush</h1>
-      <h1>Piyush</h1> */}
+     
     </>
   );
 }
