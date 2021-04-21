@@ -103,7 +103,7 @@ const DashBoard = () => {
             result.data.results.map((item) => {
               console.log("appppppp", item);
               return (
-                <div className="col-md-4 pb-3 mainDiv">
+                <div className="col-md-3 col-sm-6 pb-3 mainDiv">
                   <div className="card">
                     <img
                       className="card-img-top"
